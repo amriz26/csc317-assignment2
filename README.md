@@ -7,6 +7,8 @@ Project Overview
 
 This assignment involves creating a three-page website that includes:
 
+NOTE: my csc317assigment.html file is the same as index.html
+
 SVG elements for vector graphics
 Table elements to structure tabular data
 Other common HTML elements such as headings, paragraphs, links, and images
